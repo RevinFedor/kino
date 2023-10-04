@@ -22,9 +22,9 @@ function App() {
           >
             нажми на меня!!
           </button>
-          <div className="flex justify-between items-center">
-            <button className="w-[140px] h-[40px] border-2 rounded-full flex items-center justify-center">ВОЙТИ</button>
-            <button className="w-[120px] h-[40px] bg-yellow-400 text-black text-[14px]  rounded-full ml-3 font-semibold leading-4 flex items-center text-center">
+          <div className="btn-center">
+            <button className="w-[140px] h-[40px] border-2 rounded-full">ВОЙТИ</button>
+            <button className="w-[120px] h-[40px] bg-yellow-400 text-black text-[14px]  rounded-full ml-3 font-semibold leading-4 ">
               СОЗДАТЬ АККАУНТ
             </button>
           </div>
